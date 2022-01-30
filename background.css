@@ -13,6 +13,9 @@ body{
 #main{
     text-align: right;
 }
+#first{
+    background:white;
+}
 #second{
     background-color: rgb(158, 182, 209);
 }
